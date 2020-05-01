@@ -1,4 +1,7 @@
 # Smart-Contracts
 Smart Contracts - Detection and Tolerance to Intrusions Class
 
-Rock Paper Scissor Game
+Smart Contracts:
+ . Faucet.sol
+ . SimpleStorage.sol
+ . RockPaperScissor.sol
