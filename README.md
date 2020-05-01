@@ -1,5 +1,5 @@
 # Smart-Contracts
-Smart Contracts - Detection and Tolerance to Intrusions Class
+Smart Contracts using Ropsten Test Network (Ethereum) - Detection and Tolerance to Intrusions Class
 
 Smart Contracts:
  . Faucet.sol
