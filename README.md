@@ -1,7 +1,7 @@
 # Smart-Contracts
 Smart Contracts using Ropsten Test Network (Ethereum) - Detection and Tolerance to Intrusions Class
 
-Smart Contracts:
+Smart Contracts:  
  . Storage.sol  
  . Ballot.sol  
  . Owner.sol  
